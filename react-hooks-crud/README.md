@@ -1,3 +1,6 @@
+Small CRUD app to try and learn about React Hooks
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
