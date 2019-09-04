@@ -19,7 +19,7 @@ const App = () => {
         </div>
         <div className="flex-large">
           <h2>View users</h2>
-          <UserTable />
+          <UserTable users={users} />
         </div>
       </div>
     </div>
